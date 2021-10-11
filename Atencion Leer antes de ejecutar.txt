@@ -1,0 +1,4 @@
+Instalar en visual Studio Code, la extensión live Server.
+Una vez instalado, abrir el archivo con Visual Studio Code.
+Ejecutar con las teclas Alt+L+O.
+Si no se hace, no se ejecutara correctamente.
